@@ -17,3 +17,5 @@ const SearchForm = () => (
         </Button>
     </Form>
 );
+
+export default SearchForm;
